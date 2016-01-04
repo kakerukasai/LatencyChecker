@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#main-container {
+	position: absolute;
+	width: 100%;
+}
+
+#frame-indicator {
+	text-align: center;
+	font: 200px sans-serif;
+}
+
+#btn-container {
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	padding: 5px;
+	text-align: center;
+}
+
+progress {
+	width: 100%;
+}
