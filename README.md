@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple application to inspect your monitor's latency. Monitor's latency sometimes makes you annoyed in particular when playing FPS/TPS game. This software is written to my comfortable [Splatoon](http://splatoon.nintendo.com) life! :)
+This is a simple application to inspect your monitor's latency. Monitor's latency sometimes makes you annoyed in particular when playing FPS/TPS game. This software is written for my comfortable [Splatoon](http://splatoon.nintendo.com) life! :)
 
 
 ## Usage
