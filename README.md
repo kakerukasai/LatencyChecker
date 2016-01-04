@@ -16,6 +16,12 @@ This is a simple application to inspect your monitor's latency. Monitor's latenc
 7. Check the video to inspect how many frames the secondary display off.
 
 
+## Sample
+
+Click [here](http://mistywhite.sakura.ne.jp/samples/LatencyChecker/).
+
+Actually the sample is enough, and cloning isn't necessary to check latency...
+
 ## License
 
 This software is released under the MIT License.
